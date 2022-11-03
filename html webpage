@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title>photosynthesis</title>
+        <style>
+            body{
+                color: brown;
+                background-color: rgba(234, 255, 0, 0.147);
+            }
+        </style>
+
+    </head>
+    <body>
+        <h1>definition of photosynthesis</h1>
+        <hr>
+        <p>Photosynthesis is a process used by plants and other organisms to convert light energy into chemical energy that, through cellular respiration, can later be released to fuel the organism's activities. 
+            Some of this chemical energy is stored in carbohydrate molecules, such as sugars and starches, which are synthesized from carbon dioxide and water – hence the name photosynthesis</p>
+            <hr>
+
+            <a href="https://en.wikipedia.org/wiki/Photosynthesis" target="_self">more details💁‍♀️</a>
+            <img src=https://static.vecteezy.com/system/resources/previews/002/189/173/large_2x/diagram-showing-process-of-photosynthesis-in-plant-free-vector.jpg height="400" width="500">
+        
+        </h3>
+    </body>
+    </html>
